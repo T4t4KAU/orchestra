@@ -111,4 +111,5 @@ The evaluation results will be stored in:
 dataset/{benchmark-name}/results/
 ```
 
-**Credits:** we adopt the [AgentScope](https://github.com/modelscope/agentscope) project to implement our multi-agent TQA framework and use the [ReAcTable](https://github.com/yunjiazhang/ReAcTable) framework to instantiate the ReAct paradigm for LLM agents.
+## Credits
+We adopt the [AgentScope](https://github.com/modelscope/agentscope) project to implement our multi-agent TQA framework and use the [ReAcTable](https://github.com/yunjiazhang/ReAcTable) framework to instantiate the ReAct paradigm for LLM agents.
