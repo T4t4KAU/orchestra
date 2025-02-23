@@ -111,5 +111,16 @@ The evaluation results will be stored in:
 dataset/{benchmark-name}/results/
 ```
 
+**Controlling Agent Output**
+
+The base implementation for the TQA agent is located in: ```agentscope/src/agentscope/agents/qa_agent.py```
+
+To control whether the agent prints its response, (un)comment the following code:
+```python
+# Print/speak the message in this agent's voice
+# Support both streaming and non-streaming responses by "or"
+self.speak(response.stream or response.text)
+```
+
 ## Credits
 We adopt the [AgentScope](https://github.com/modelscope/agentscope) project to implement our multi-agent TQA framework and use the [ReAcTable](https://github.com/yunjiazhang/ReAcTable) framework to instantiate the ReAct paradigm for LLM agents.
