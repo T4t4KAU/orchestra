@@ -1,0 +1,123 @@
+The database table DF is shown as follows:
+[HEAD]: aircraft|introduced|retired
+---
+[ROW] 1: Aérospatiale N 262|1967|1969
+[ROW] 2: Boeing 707|-|-
+[ROW] 3: Boeing 720|1976|1977
+[ROW] 4: Convair 990 Coronado|1974|1975
+[ROW] 5: de Havilland Comet|1962|1965
+[ROW] 6: Douglas DC-3|1947|1976
+[ROW] 7: Douglas DC-4|1949|1953
+[ROW] 8: Douglas DC-8|1972|1978
+...
+[ROW] 14: Sud Aviation Caravelle|-|-
+[ROW] 15: Vickers VC10|1965/1977|1971/1978
+
+Answer the following question based on the data above: "What Hawker planes has Air Ceylon had?". Generate SQL or Python code step-by-step given the question and table to answer the question correctly. For each step, generate SQL code to process the query or Python code to reformat the data. Output the code braced by "```" and an external executor will process the code generated and feed an intermediate table back to you. Answer the question directly if confident.
+
+SQL: ```SELECT aircraft FROM DF WHERE aircraft LIKE "%Hawker%";```.
+
+Intermediate table:
+[HEAD]: aircraft
+---
+[ROW] 1: Hawker Siddeley HS 748
+[ROW] 2: Hawker Siddeley Trident
+
+Answer: ```Air Ceylon had Hawker Siddeley HS 748 and Hawker Siddeley Trident.```.
+
+The database table DF is shown as follows:
+[HEAD]: party|party2|candidate|votes|percent
+---
+[ROW] 1: -|Democratic|Franklin D. Roosevelt (inc.)|31,945|60.08%
+[ROW] 2: -|Republican|Wendell Willkie|21,229|39.92%
+[ROW] 3: Total votes|Total votes|Total votes|53,174|100%
+
+Answer the following question based on the data above: "Which candidates ran in the 1940 United States presidential election in Nevada, and what percentage of the vote did each candidate earn?". Generate SQL or Python code step-by-step given the question and table to answer the question correctly. For each step, generate SQL code to process the query or Python code to reformat the data. Output the code braced by "```" and an external executor will process the code generated and feed an intermediate table back to you. Answer the question directly if confident.
+
+SQL: ```SELECT candidate, percent FROM DF;```.
+
+Intermediate table:
+[HEAD]: candidate|percent
+---
+[ROW] 1: Franklin D. Roosevelt (inc.)|60.08%
+[ROW] 2: Wendell Willkie|39.92%
+[ROW] 3: Total votes|100%
+
+Answer: ```Nevada was won by incumbent Franklin D. Roosevelt (D), with 60.08% of the vote, against Wendell Willkie (R), with 39.92% of the vote.```.
+
+The database table DF is shown as follows:
+[HEAD]: year|title|role|notes
+---
+[ROW] 1: 2009–2013|We Speak NYC|Jorge / Fredy|"Love and Money" & "The Storm"
+[ROW] 2: 2014–2019|Broad City|Jaimé Castro|-
+[ROW] 3: 2015-2016|Alternatino|Arturo|Web series, 6 episodes
+[ROW] 4: 2017|No Activity|Pedro|6 Episodes
+[ROW] 5: 2017|Narcos|David Rodriguez|10 episodes
+[ROW] 6: 2019|Alternatino|Arturo|-
+
+Answer the following question based on the data above: "What role did Arturo Castro play in Narcos?". Generate SQL or Python code step-by-step given the question and table to answer the question correctly. For each step, generate SQL code to process the query or Python code to reformat the data. Output the code braced by "```" and an external executor will process the code generated and feed an intermediate table back to you. Answer the question directly if confident.
+
+SQL: ```SELECT * FROM DF WHERE title="Narcos";```.
+
+Intermediate table:
+[HEAD]: year|title|role|notes
+---
+[ROW] 1: 2017|Narcos|David Rodriguez|10 episodes
+
+Answer: ```In 2017, Arturo played the role of David Rodriguez in Narcos.```.
+
+The database table DF is shown as follows:
+[HEAD]: party|party2|candidate|votes|percent|±
+---
+[ROW] 1: -|Liberal|Alexander Gordon Cummins Harvey|5,912|45.9|0.0
+[ROW] 2: -|Conservative|Clement Royds|4,449|34.6|11.5
+[ROW] 3: -|Independent Labour|Samuel George Hobson|2,506|19.5|-
+[ROW] 4: Majority|Majority|Majority|1,463|11.3|-
+[ROW] 5: Turnout|Turnout|Turnout|12,867|93.0|+5.9
+[ROW] 6: -|Liberal gain from Conservative|Liberal gain from Conservative|Swing|-|-
+
+Answer the following question based on the data above: "Which candidate has more votes? Harvey or Royds?". Generate SQL or Python code step-by-step given the question and table to answer the question correctly. For each step, generate SQL code to process the query or Python code to reformat the data. Output the code braced by "```" and an external executor will process the code generated and feed an intermediate table back to you. Answer the question directly if confident.
+
+SQL: ```SELECT candidate, votes FROM DF WHERE candidate LIKE "%Harvey%" OR candidate LIKE "%Royds%";```.
+
+Intermediate table:
+[HEAD]: candidate|votes
+---
+[ROW] 1: Alexander Gordon Cummins Harvey|5,912
+[ROW] 2: Clement Royds|4,449
+
+SQL: ```SELECT MAX(votes) - MIN(votes) FROM DF;```.
+
+Intermediate table:
+[HEAD]: max(votes)_-_min(votes)
+---
+[ROW] 1: 1463.0
+
+Answer: ```Harvey beat Royds by 1,463 votes.```.
+
+The database table DF is shown as follows:
+[HEAD]: year|nominee_work|award|result
+---
+[ROW] 1: 2004|Elephunk|Best Engineered Album, Non-Classical|Nominated
+[ROW] 2: 2004|Where Is the Love? (ft. Justin Timberlake)|Best Rap/Sung Collaboration|Nominated
+[ROW] 3: 2004|Where Is the Love? (ft. Justin Timberlake)|Record of the Year|Nominated
+[ROW] 4: 2005|Let's Get It Started|Record of the Year|Nominated
+[ROW] 5: 2005|Let's Get It Started|Best Rap Performance by a Duo or Group|Won
+[ROW] 6: 2005|Let's Get It Started|Best Rap Song|Nominated
+[ROW] 7: 2005|Hey Mama|Best Rap Song|Nominated
+[ROW] 8: 2006|Don't Phunk with My Heart|Best Rap Song|Nominated
+...
+[ROW] 25: 2010|Boom Boom Pow|Best Dance Recording|Nominated
+[ROW] 26: 2010|Boom Boom Pow|Best Short Form Music Video|Won
+
+Answer the following question based on the data above: "How did "Don't Phunk with My Heart" from Will.i.am performed during its released in 2006?". Generate SQL or Python code step-by-step given the question and table to answer the question correctly. For each step, generate SQL code to process the query or Python code to reformat the data. Output the code braced by "```" and an external executor will process the code generated and feed an intermediate table back to you. Answer the question directly if confident.
+
+SQL: ```SELECT * FROM DF WHERE year=2006 AND nominee_work="Don't Phunk with My Heart";```.
+
+Intermediate table:
+[HEAD]: year|nominee_work|award|result
+---
+[ROW] 1: 2006|Don't Phunk with My Heart|Best Rap Song|Nominated
+[ROW] 2: 2006|Don't Phunk with My Heart|Best Rap Performance by a Duo or Group|Won
+
+Answer: ```In 2006, Will.i.am won the Grammy Award for Best Rap Performance by a Duo or Group for "Don't Phunk with My Heart".```.

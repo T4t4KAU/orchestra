@@ -1,0 +1,494 @@
+context	utterance	targetValue	id	qtype
+tables/table-1.csv	What is the average number of tropical cyclones per season?	10.6	qid-1	NumericalReasoning
+tables/table-2.csv	What is the total average daily flights of all routes combined?	115.7	qid-2	NumericalReasoning
+tables/table-3.csv	What is the total GDP (nominal) of all countries with a UN budget greater than 2%?	7700143	qid-3	NumericalReasoning
+tables/table-4.csv	What is the average age of the executives listed in the table?	51.44	qid-4	NumericalReasoning
+tables/table-5.csv	What is the total number of goals scored by Liverpool in the Premier League?	55	qid-5	NumericalReasoning
+tables/table-6.csv	What is the average value of the 2001 general election across all regions in Italy?	6.16	qid-6	NumericalReasoning
+tables/table-7.csv	What is the total number of years served by all mayors listed in the table?	108	qid-7	NumericalReasoning
+tables/table-8.csv	What is the total length of all rivers that flow into the left side of the main river, in kilometers?	468.3	qid-8	NumericalReasoning
+tables/table-9.csv	What is the average percentage of national votes won by all leaders in the table?	37.64%	qid-9	NumericalReasoning
+tables/table-10.csv	What is the average number of podiums achieved by a team in a single season?	1.57	qid-10	NumericalReasoning
+tables/table-11.csv	What is the total number of students who took SAT subject tests in mathematics (both Level 1 and Level 2)?	259299	qid-11	NumericalReasoning
+tables/table-12.csv	What is the average height (in meters) of the top 5 tallest buildings in the table?	182	qid-12	NumericalReasoning
+tables/table-13.csv	What is the average number of viewers (in millions) for all episodes that had a rating of 6.0 or higher?	11.52	qid-13	NumericalReasoning
+tables/table-14.csv	What is the average population density of all municipalities in the table?	150.55	qid-14	NumericalReasoning
+tables/table-15.csv	What is the total elevation of all mountains in the table?	34513	qid-15	NumericalReasoning
+tables/table-16.csv	"What is the average value of the ""Pin (Tip)"" column?"	38	qid-16	NumericalReasoning
+tables/table-17.csv	What is the average US chart position of all songs in the table?	11.71	qid-17	NumericalReasoning
+tables/table-18.csv	What is the total number of medals won by all nations listed in the table?	42	qid-18	NumericalReasoning
+tables/table-19.csv	What is the total population of all regions in China where the percentage of Manchu population is greater than 5%?	3123625869	qid-19	NumericalReasoning
+tables/table-20.csv	What is the total revenue of all companies in the oil industry?	838478.3	qid-20	NumericalReasoning
+tables/table-21.csv	What is the average total points of all couples who have performed more than 10 dances?	353.2	qid-21	NumericalReasoning
+tables/table-22.csv	What is the total population of the top 5 cities in the table?	206713	qid-22	NumericalReasoning
+tables/table-23.csv	What is the total number of people deported from all regions listed in the table?	18533.76	qid-23	NumericalReasoning
+tables/table-24.csv	What is the average rank of the indices published by Transparency International?	28	qid-24	NumericalReasoning
+tables/table-25.csv	What is the total number of people from all nationalities admitted over the 8-year period from 2000 to 2008?	423174	qid-25	NumericalReasoning
+tables/table-26.csv	What is the average percentage of males across all states in India?	12.82	qid-26	NumericalReasoning
+tables/table-27.csv	What is the total number of individuals in the age groups between 10 and 35?	15153	qid-27	NumericalReasoning
+tables/table-28.csv	What is the total amount of winnings for all drivers who drove a Chevrolet car, and which driver among them has the highest winnings?	2880210, tony stewart	qid-28	NumericalReasoning
+tables/table-29.csv	What is the average number of days served by the top 5 ranked governors?	3618.4	qid-29	NumericalReasoning
+tables/table-30.csv	What is the total number of films that participated in the festival across all years from 2012 to 2014?	1062	qid-30	NumericalReasoning
+tables/table-31.csv	What is the total mintage of all coins from 2002 to 2012?	418918	qid-31	NumericalReasoning
+tables/table-32.csv	What is the total number of seats won by the party across all elections listed in the table?	1702	qid-32	NumericalReasoning
+tables/table-33.csv	What is the total GDP of all South American countries listed in the table according to the 2011 IMF estimates?	124339	qid-33	NumericalReasoning
+tables/table-34.csv	What is the total area (in km square) of all countries/regions listed in the table?	11803923	qid-34	NumericalReasoning
+tables/table-35.csv	What is the average time of all athletes in the table?	48.98	qid-35	NumericalReasoning
+tables/table-36.csv	What is the total number of locomotives introduced between 1867 and 1873, considering only the '2 - 4 - 0' and '0 - 6 - 0' types?	149	qid-36	NumericalReasoning
+tables/table-37.csv	What is the average score in the 'tumbling' category across all teams?	52.08	qid-37	NumericalReasoning
+tables/table-38.csv	What is the total average rating of all TV dramas in the table?	321	qid-38	NumericalReasoning
+tables/table-39.csv	What is the average number of US viewers (in millions) for the episodes in Season 1?	8.45	qid-39	NumericalReasoning
+tables/table-40.csv	What is the total number of camp mates across all series of the TV show?	137	qid-40	NumericalReasoning
+tables/table-41.csv	What is the total population of all districts in the city?	1652171	qid-41	NumericalReasoning
+tables/table-42.csv	What is the total number of Outright Titles won by all schools in Belfast?	91	qid-42	NumericalReasoning
+tables/table-43.csv	What is the average value of wheat production from 2002-03 to 2005-06?	4638.25	qid-43	NumericalReasoning
+tables/table-44.csv	What is the total commissioned capacity (in MW) of all power plants in Himachal Pradesh?	1251	qid-44	NumericalReasoning
+tables/table-45.csv	What is the average value of `c_x (metre)` across all regions?	444.73	qid-45	NumericalReasoning
+tables/table-46.csv	What is the total number of years that all ambassadors served?	80	qid-46	NumericalReasoning
+tables/table-47.csv	What is the total number of PR seats won by all parties combined?	48	qid-47	NumericalReasoning
+tables/table-48.csv	What is the average weight (kg/m) of all the ismb beams in the table?	70.63	qid-48	NumericalReasoning
+tables/table-49.csv	What is the average number of points received by the singers in this competition?	23.47	qid-49	NumericalReasoning
+tables/table-50.csv	What is the average percentage of votes for the Progressive Conservative party across all polling firms and dates?	69.75%	qid-50	NumericalReasoning
+tables/table-51.csv	How many points did Wattstown RFC score in the season?	69	qid-51	FactChecking
+tables/table-52.csv	Which team finished in a goal difference of 16?	Real Betis, Real Madrid B	qid-52	FactChecking
+tables/table-53.csv	Which nation has won 5 gold medals and 2 silver medals, according to the table?	Bulgaria	qid-53	FactChecking
+tables/table-54.csv	Which nation has a total of 13 medals ?	south korea	qid-54	FactChecking
+tables/table-55.csv	Which nation ranked 4th in the medal count ?	united states	qid-55	FactChecking
+tables/table-56.csv	According to the table, which nation won 1 gold and 4 silver medals?	algeria	qid-56	FactChecking
+tables/table-57.csv	According to the table, which nation won 18 gold medals?	great britain	qid-57	FactChecking
+tables/table-58.csv	According to the table, how many tries did Llandeilo RFC score in the season?	136	qid-58	FactChecking
+tables/table-59.csv	Which nation won 30 silver medals in the Olympic Games?	Great Britain	qid-59	FactChecking
+tables/table-60.csv	Which nation has 4 gold medals and is ranked 4th in the table?	Chile	qid-60	FactChecking
+tables/table-61.csv	In which season did the driver win 13 races ?	2011	qid-61	FactChecking
+tables/table-62.csv	Which nation has a total of 57 medals ?	Puerto Rico	qid-62	FactChecking
+tables/table-63.csv	Which nation ranked 3rd in the competition ?	jamaica	qid-63	FactChecking
+tables/table-64.csv	What is the highest score achieved by Lionel Palairet in his cricket career?	100	qid-64	FactChecking
+tables/table-65.csv	According to the table, which nation won 1 gold medal and no silver or bronze medals?	benin, quebec, cape verde, ivory coast	qid-65	FactChecking
+tables/table-66.csv	What percentage of Black voters voted in 1960?	68	qid-66	FactChecking
+tables/table-67.csv	How many 3-pointers did Alpha Ambrose Kargbo make in the given games?	15	qid-67	FactChecking
+tables/table-68.csv	How many games did Maesteg RFC play in the season?	22	qid-68	FactChecking
+tables/table-69.csv	In which year did the driver earn $411,728 in winnings?	1994	qid-69	FactChecking
+tables/table-70.csv	According to the table, what was the average score of the contestant from Texas in the competition?	9.266	qid-70	FactChecking
+tables/table-71.csv	How many Indians were admitted in 2005?	22141	qid-71	FactChecking
+tables/table-72.csv	What is the capital of Australia, according to the table?	canberra	qid-72	FactChecking
+tables/table-73.csv	"Which ward has a value of 51 in the ""bello"" column?"	orlãans	qid-73	FactChecking
+tables/table-74.csv	According to the table, which player won the championship and how many points did they win?	novak djokovic, 2000	qid-74	FactChecking
+tables/table-75.csv	Which nation ranked with a total of 8 medals, including 3 gold medals?	France	qid-75	FactChecking
+tables/table-76.csv	According to the table, what was the crude birth rate (per 1000) in 1995?	12.6	qid-76	FactChecking
+tables/table-77.csv	According to the table, which nation won 4 gold medals and 3 silver medals?	Jamaica (JAM)	qid-77	FactChecking
+tables/table-78.csv	Which team did the driver participate with in the 2007 Eurocup Formula Renault 2.0 series?	sg drivers project	qid-78	FactChecking
+tables/table-79.csv	According to the table, what is the average relative annual growth rate of the population in Saudi Arabia?	3.41	qid-79	FactChecking
+tables/table-80.csv	Which team is currently in 3rd position in the league?	12 de octubre	qid-80	FactChecking
+tables/table-81.csv	In 2001, how many Jamaicans were granted British citizenship through naturalization by marriage?	710	qid-81	FactChecking
+tables/table-82.csv	"Which ward has a value of 66 in the ""bello"" column?"	rideau - vanier	qid-82	FactChecking
+tables/table-83.csv	Which team is currently with 13 points and a goal difference of 17?	corinthians	qid-83	FactChecking
+tables/table-84.csv	Which nation ranked with a total of 6 medals?	russia	qid-84	FactChecking
+tables/table-85.csv	How many races did the driver participate in during the 2005 season?	16	qid-85	FactChecking
+tables/table-86.csv	"What is the payout for a ""four of a kind, 2-4"" hand when betting 3 credits?"	300	qid-86	FactChecking
+tables/table-87.csv	What is the total number of medals won by switzerland ?	6	qid-87	FactChecking
+tables/table-88.csv	Which player had an average of 11.4 yards per reception?	Jerel Myers	qid-88	FactChecking
+tables/table-89.csv	Which nation ranked 4th in terms of gold medals won?	united states	qid-89	FactChecking
+tables/table-90.csv	What was the ranking of guangdong in 2008?	6	qid-90	FactChecking
+tables/table-91.csv	"According to the table, what is the total points scored by the song ""qyteti i dashurisë"" ?"	5	qid-91	FactChecking
+tables/table-92.csv	Which team has earned the least points in the league?	estudiantes de mãrida fc, monagas sc	qid-92	FactChecking
+tables/table-93.csv	In which season did the skier achieve a giant slalom of 7?	1993	qid-93	FactChecking
+tables/table-94.csv	According to the table, which school in Belfast has won the most outright titles?	Methodist College Belfast	qid-94	FactChecking
+tables/table-95.csv	According to the table, how many league goals did george mclean score during his career from 1930 - 1934?	43	qid-95	FactChecking
+tables/table-96.csv	How many points did the llanhilleth rfc score in the league season?	37	qid-96	FactChecking
+tables/table-97.csv	What is the average number of viewers (in millions) for the TV show during the seasons that had more than 20 episodes?	4.576	qid-97	NumericalReasoning
+tables/table-98.csv	What is the difference in total goals scored by the top-scoring forward (fw) and the top-scoring midfielder (mf) in the league?	7	qid-98	NumericalReasoning
+tables/table-99.csv	What is the total population of regions in Italy that have an area greater than 20000 square kilometers?	29270492	qid-99	NumericalReasoning
+tables/table-100.csv	What is the difference in total days of inclement weather (snow, storms, and fog) between the year with the most sunshine and the year with the least sunshine?	61	qid-100	NumericalReasoning
+tables/table-101.csv	What is the total increase in German imports from Poland and Danzig between 1934 and 1939?	62.7	qid-101	NumericalReasoning
+tables/table-102.csv	What is the average number of storeys of the top 3 buildings by rank that were completed before 1980?	20.3	qid-102	NumericalReasoning
+tables/table-103.csv	What is the average percentage weight loss of the top 3 contestants who lost the most weight in kilograms?	38.07%	qid-103	NumericalReasoning
+tables/table-104.csv	What is the difference between the average 'Composition' score of the top 3 painters with the highest 'Expression' scores and the average 'Drawing' score of the bottom 5 painters with the lowest 'Color' scores?	0.87	qid-104	NumericalReasoning
+tables/table-105.csv	What is the average market value of companies in the oil and gas industry that have sales of at least 300 billion?	269.28	qid-105	NumericalReasoning
+tables/table-106.csv	What is the total error (in cents) of the intervals with the smallest sizes (in steps)?	36.2	qid-106	NumericalReasoning
+tables/table-107.csv	What is the total number of goals scored by Lincoln City in the Third Division North?	49	qid-107	NumericalReasoning
+tables/table-108.csv	What is the difference in points between the artist with the highest points and the average points of the top 3 artists?	27.33	qid-108	NumericalReasoning
+tables/table-109.csv	What is the difference in PSI values between the province with the highest PSI value and the province with the lowest PSI value?	6.4	qid-109	NumericalReasoning
+tables/table-110.csv	What is the average elevation of districts in the Cusco region that have an elevation above 4700 meters?	4769	qid-110	NumericalReasoning
+tables/table-111.csv	What is the total population of the top 5 provinces with the highest density, and what is the average area of these provinces?	5118195, 1218.56	qid-111	NumericalReasoning
+tables/table-112.csv	What is the difference between the total number of Primary schools in the top 3 countries with the most Primary schools and the total number of Career-related schools in all countries?	583	qid-112	NumericalReasoning
+tables/table-113.csv	What is the difference in months between the earliest and latest 'Date Built' for the locomotives with consecutive 'SR No.'?	6	qid-113	NumericalReasoning
+tables/table-114.csv	Which country has the highest percentage of total freshwater withdrawal used for agricultural purposes in each country?	turkmenistan, guyana	qid-114	NumericalReasoning
+tables/table-115.csv	"What is the minimum percentage increase in the Manchu population required in the ""north"" region to surpass the total Manchu population in the ""liaoning"" region, assuming the total population in both regions remains constant?"	77.73%	qid-115	NumericalReasoning
+tables/table-116.csv	What is the maximum number of years that a locomotive built in 1938 could have been in service, assuming it was withdrawn in the latest possible year?	27	qid-116	NumericalReasoning
+tables/table-117.csv	What is the average market value of the top 5 companies in the oil and gas industry?	276.06	qid-117	NumericalReasoning
+tables/table-118.csv	What is the total number of enrolled men and women in the regions where the 'e / vap ratio total' is greater than 105%?	6303623	qid-118	NumericalReasoning
+tables/table-119.csv	What is the total intake of all 'primary' schools that have a 'dcsf number' less than 2200?	60	qid-119	NumericalReasoning
+tables/table-120.csv	What is the total population of all places where Afrikaans is the most spoken language?	5954	qid-120	NumericalReasoning
+tables/table-121.csv	What is the total number of bills originally cosponsored by the legislator in the years where they sponsored more than 50 bills?	854	qid-121	NumericalReasoning
+tables/table-122.csv	What is the total number of medals (M36 + M36B1 + M36B2) earned from May 1944 to August 1944?	475	qid-122	NumericalReasoning
+tables/table-123.csv	What is the average prominence of mountain peaks in Morocco that have an elevation of at least 3000 meters and a col elevation of more than 1500 meters?	1718.33	qid-123	NumericalReasoning
+tables/table-124.csv	What is the average rating of episodes that have a viewership of at least 10 million and are ranked within the top 3 in their timeslot?	7.2	qid-124	NumericalReasoning
+tables/table-125.csv	What is the percentage change in the value of 'l (mh / km)' when the 'frequency (hz)' increases from 1 to 100k, assuming the ratio of 'g (î¼s / km)' to 'c (nf / km)' remains constant?	5.25	qid-125	NumericalReasoning
+tables/table-126.csv	What is the total number of jury votes received by artists who made it to the 'final'?	37	qid-126	NumericalReasoning
+tables/table-127.csv	What is the average number of episodes per season for seasons that have at least 40 episodes, and premiered between October and December?	46	qid-127	NumericalReasoning
+tables/table-128.csv	What is the total number of seats held by parties that have at least 2 seats in the agricultural panel, and what percentage of the total seats do they represent?	41, 68.33%	qid-128	NumericalReasoning
+tables/table-129.csv	What is the average prominence of mountain peaks in the Democratic Republic of the Congo that have an elevation of at least 3000 meters?	2606.25	qid-129	NumericalReasoning
+tables/table-130.csv	What is the total cost for systems that produce at least 2000 kwh/kwp/year, and have a cost per kwp of at most $1400?	43.8	qid-130	NumericalReasoning
+tables/table-131.csv	What is the total increase in medals from 2009 to 2011 for the top 3 countries?	135828	qid-131	NumericalReasoning
+tables/table-132.csv	What is the minimum increase in GDP per capita required for West Germany to surpass the GDP per capita of France, assuming the population of both countries remains the same?	0	qid-132	NumericalReasoning
+tables/table-133.csv	What is the average points scored by songs with non-English language titles that have a points value greater than the median points value of all songs?	88.57	qid-133	NumericalReasoning
+tables/table-134.csv	What is the average magnitude of earthquakes that have resulted in a death toll of at least 1,000 and have a depth of less than 30 km?	7.25	qid-134	NumericalReasoning
+tables/table-135.csv	If a specimen with a weight of 0.1 g / 4.08 mm is combined with a specimen of 10 g / 1.89 cm, what would be the estimated total exposure (mrem) / hr, assuming the calculated activity (Bq) is directly proportional to the specimen weight?	0.03	qid-135	NumericalReasoning
+tables/table-136.csv	What is the total number of employees in 2012 for employers in the 'healthcare' and 'education' industries?	113900	qid-136	NumericalReasoning
+tables/table-137.csv	What is the total number of wins by teams that have a win percentage greater than 0.7?	65	qid-137	NumericalReasoning
+tables/table-138.csv	What is the average population density of municipalities with an area greater than 700 km 2 and a human development index above 0.7?	211.19	qid-138	NumericalReasoning
+tables/table-139.csv	What is the minimum number of additional 'dp / da' values needed for the 2003 floor-crossing event to surpass the total 'dp / da' values of the 1999 election event, assuming the average 'dp / da' value of the 2003 floor-crossing event remains the same?	2	qid-139	NumericalReasoning
+tables/table-140.csv	What is the average percentage increase in total mintage from one year to the next for the coins with an issue price of $34.95?	-12.45%.	qid-140	NumericalReasoning
+tables/table-141.csv	What is the average revenue of the top 5 companies in the 'banking' industry?	30147.88	qid-141	NumericalReasoning
+tables/table-142.csv	What is the total number of viewers (in millions) for episodes that have a rating/share of 3.0 or higher and a rank (timeslot) of 1?	67.68	qid-142	NumericalReasoning
+tables/table-143.csv	What is the average percentage change in the values from 1996 to 2004 for each region in the table?	36.22%.	qid-143	NumericalReasoning
+tables/table-144.csv	What is the total number of sterilizations performed on individuals aged 20-29 and 30-39 during the time period 'jul 1940 - jun 1950' and 'jul 1950 - jun 1960'?	2788	qid-144	NumericalReasoning
+tables/table-145.csv	"What is the minimum number of people that need to be added to the municipality with the smallest population in the ""la haute - côte - nord"" regional county municipality to make its population equal to the average population of all municipalities in that region?"	880.38	qid-145	NumericalReasoning
+tables/table-146.csv	What is the difference in maximum pressure (in bar) between the ammunition type with the largest external area and the ammunition type with the smallest external area?	600	qid-146	NumericalReasoning
+tables/table-147.csv	What is the total death toll from earthquakes with a magnitude of 7.7 or higher that occurred in countries in Asia?	860	qid-147	NumericalReasoning
+tables/table-148.csv	"What is the award that ""Sunny Morning"" won in 2017, and in which edition of the Hollywood Music in Media Awards was it nominated?"	Radio Music Awards, edition #8 (2017)	qid-148	FactChecking
+tables/table-149.csv	Which competition did the athlete participate where they achieved a position of 37th in the 20 km walk event?	World Race Walking Cup	qid-149	FactChecking
+tables/table-150.csv	In which year did the athlete win a gold medal in the 100 m event?	2007	qid-150	FactChecking
+tables/table-151.csv	Which player has won the most titles in men's singles and men's doubles combined, considering only the years between 1975 and 1982?	victor yusim	qid-151	FactChecking
+tables/table-152.csv	In which year did the athlete win the gold medal in the 200m event at the European Junior Championships?	2011	qid-152	FactChecking
+tables/table-153.csv	Which player, who has scored the most points in a single year, also has the highest number of rebounds in the same year?	jermaine o'neal ,al harrington,tyler hansbrough	qid-153	FactChecking
+tables/table-154.csv	Which award has The Washboard Union won the most times, and in which year did they first win it?	BCCMA, 2015	qid-154	FactChecking
+tables/table-155.csv	In which year did the athlete achieve their best position in the 800m event at the World Championships?	2013	qid-155	FactChecking
+tables/table-156.csv	How many delegates from Metro Manila won a pageant title?	2	qid-156	FactChecking
+tables/table-157.csv	Which player, who has won the men's singles title and also won the mixed doubles title at least twice in the same year?	jeliazko valkov, stilian makarski	qid-157	FactChecking
+tables/table-158.csv	In which city did the team win the most matches in 2001, and what was the score of their first win in that city?	nicosia (cyp), 3 - 0	qid-158	FactChecking
+tables/table-159.csv	What is the competition where the athlete won 1st place in the 3000 m steeplechase event, which was held in a city that is also the capital of the Bahamas?	Central American and Caribbean Junior Championships (U-20)	qid-159	FactChecking
+tables/table-160.csv	Which team, having played at Waverley Park in a year with a crowd size above 40,000, has the highest score margin?	essendon	qid-160	FactChecking
+tables/table-161.csv	In which year did the athlete achieve their personal best time in the 400m event?	2012	qid-161	FactChecking
+tables/table-162.csv	In which year did the athlete achieve a higher position in the Triple jump event at the Asian Championships compared to the World Championships?	2013	qid-162	FactChecking
+tables/table-163.csv	What is the event in which the athlete achieved a position of 2nd in the 2008 Asian Junior Championships?	800 m	qid-163	FactChecking
+tables/table-164.csv	How many songs written by Glen Campbell were released in the 1980s?	1	qid-164	FactChecking
+tables/table-165.csv	Which women's singles champion has won the most titles among those who have also won a mixed doubles title?	kamila augustyn	qid-165	FactChecking
+tables/table-166.csv	In which year did Barbara Stanwyck win an Emmy Award for a TV series?	1961	qid-166	FactChecking
+tables/table-167.csv	Who is the only player to have won both the men's singles and men's doubles titles in the same year, and what is that year?	henrik sörensen, 1994	qid-167	FactChecking
+tables/table-168.csv	Which trainer has trained the most winners with a winning time of less than 2:02 minutes?	william i mott	qid-168	FactChecking
+tables/table-169.csv	Which film has the most award wins among those that were nominated for Best Actor and were released in 2017 or earlier?	Cock and Bull	qid-169	FactChecking
+tables/table-170.csv	In which year did the work win an award for a song that was nominated for Song of the Year at the Grammy Awards?	2009	qid-170	FactChecking
+tables/table-171.csv	What is the fastest 800m time among those who have participated in the World Championships and have achieved a position of 5th or higher?	1:45.61	qid-171	FactChecking
+tables/table-172.csv	Which team won the most titles in the period between 1968 and 1983, and what was the name of their winning coach in the year they won their first title?	new york cosmos, gordon bradley	qid-172	FactChecking
+tables/table-173.csv	How many times did the captain who led the United States to the most victories captain the team?	3	qid-173	FactChecking
+tables/table-174.csv	In which year did the athlete achieve their best position in the 400m event at the European Championships?	2015	qid-174	FactChecking
+tables/table-175.csv	What is the year in which the athlete won the Stockholm Marathon with a time of less than 2:35:00?	1982	qid-175	FactChecking
+tables/table-176.csv	In which year did the athlete win a gold medal in a 20 km event?	2010	qid-176	FactChecking
+tables/table-177.csv	Which team, having participated in the 'gt1' class, had a co-driver named Peter Kox?	aston martin racing	qid-177	FactChecking
+tables/table-178.csv	In which year did the athlete achieve their personal best time in the 20 km walk event at the African Championships?	2008	qid-178	FactChecking
+tables/table-179.csv	In which year did the athlete achieve a personal best (PB) time in the Irish National Marathon Championship, and what was the venue for that event?	1982,Limerick	qid-179	FactChecking
+tables/table-180.csv	Which team won the tournament in 2005, and what was the the runner-up team that year?	Offaly, Carlow	qid-180	FactChecking
+tables/table-181.csv	In which year did the athlete achieve their best position in the 1500 m event at the Olympic Games?	2012	qid-181	FactChecking
+tables/table-182.csv	Which university has the most winners of the award in the sport of Basketball?	University of Connecticut Huskies	qid-182	FactChecking
+tables/table-183.csv	Which author, who wrote a book with a narrator named Katherine Kellgren, also wrote a book that won the award in 2013?	elizabeth fama	qid-183	FactChecking
+tables/table-184.csv	How many films directed by Mostofa Sarwar Farooki were submitted to the Academy Awards?	2	qid-184	FactChecking
+tables/table-185.csv	What is the event in which the athlete achieved a position of 4th in 2005, and what was the corresponding venue?	Half marathon, Edmonton, Canada	qid-185	FactChecking
+tables/table-186.csv	"Which award did the individual win in 2003 for their performance in the movie ""Road to Perdition""?"	Young Artist Award	qid-186	FactChecking
+tables/table-187.csv	In which year did the athlete win a gold medal in the 100 m event at the African Junior Championships?	1997	qid-187	FactChecking
+tables/table-188.csv	In which year did the athlete win the most gold medals in a single South Pacific Games?	1969, 1971, 1975	qid-188	FactChecking
+tables/table-189.csv	In which year did the athlete achieve their highest ranking in the Javelin throw event at the Olympic Games?	2000	qid-189	FactChecking
+tables/table-190.csv	Which player has won the most championships in the 1990s?	Steve Davis	qid-190	FactChecking
+tables/table-191.csv	In which year did the athlete win a gold medal in the Heptathlon event at the South American Championships in Peru, and what was the corresponding points score?	2009, 5578 pts	qid-191	FactChecking
+tables/table-192.csv	In which year did this athlete win both the Senior PGA Championship and Senior Players Championship titles？	1986	qid-192	FactChecking
+tables/table-193.csv	In which year did the athlete achieve their personal best (PB) in the 200m event at the Asian Games?	2018	qid-193	FactChecking
+tables/table-194.csv	Which Telugu movie released in 1955 has a director who also directed a Tamil movie in 1956?	Ardhangi	qid-194	FactChecking
+tables/table-195.csv	In which year did the athlete win their first gold medal in the 100 m hurdles event?	2010	qid-195	FactChecking
+tables/table-196.csv	Which composer has worked with the most number of different playback singers in the songs listed in the table?	Deva	qid-196	FactChecking
+tables/table-197.csv	In which year did the athlete win a gold medal in the 400m event at the CARIFTA Games (U-20) with a personal best time?	2009,2010	qid-197	FactChecking
+tables/table-198.csv	How many countries have a population of more than 40 million?	4	qid-198	NumericalReasoning
+tables/table-199.csv	How many states have a value greater than 0.3 in the 2001-05 time period?	6	qid-199	NumericalReasoning
+tables/table-200.csv	How many engines have a specific impulse greater than 1000 seconds?	4	qid-200	NumericalReasoning
+tables/table-201.csv	How many cities/municipalities have a population density of over 3000 per km square?	5	qid-201	NumericalReasoning
+tables/table-202.csv	How many municipalities have a population of 40,000 or more people speaking Spanish?	1	qid-202	NumericalReasoning
+tables/table-203.csv	How many episodes had a rating of 5.3 or higher?	7	qid-203	NumericalReasoning
+tables/table-204.csv	How many countries have a population of over 50 million according to the 2013 projection?	4	qid-204	NumericalReasoning
+tables/table-205.csv	How many conferences have occurrences in the year 1996?	6	qid-205	NumericalReasoning
+tables/table-206.csv	How many players have scored more than 3 goals in total?	5	qid-206	NumericalReasoning
+tables/table-207.csv	How many parties have more than 10% of the total votes?	3	qid-207	NumericalReasoning
+tables/table-208.csv	How many universities are located in London?	4	qid-208	NumericalReasoning
+tables/table-209.csv	How many counties have a per capita income between $18,000 and $27,000?	22	qid-209	NumericalReasoning
+tables/table-210.csv	How many frequency measurements have a resistance value greater than 180?	3	qid-210	NumericalReasoning
+tables/table-211.csv	How many banks have total assets of more than 10,000 million TL?	15	qid-211	NumericalReasoning
+tables/table-212.csv	How many diesel cars are listed in the table?	111	qid-212	NumericalReasoning
+tables/table-213.csv	How many racing series did the driver participate in during the 2004-2007 season?	12	qid-213	NumericalReasoning
+tables/table-214.csv	How many years had more than 25000 Indians admitted?	9	qid-214	NumericalReasoning
+tables/table-215.csv	How many hand combinations have a payout of 100 or more for 1 credit?	4	qid-215	NumericalReasoning
+tables/table-216.csv	How many nations have won at least one gold medal?	3	qid-216	NumericalReasoning
+tables/table-217.csv	How many years had 3 or fewer hurricanes?	4	qid-217	NumericalReasoning
+tables/table-218.csv	How many agents have a melting point below 0 degrees?	5	qid-218	NumericalReasoning
+tables/table-219.csv	How many districts have a 2008 GDP per capita (USD) above 6700?	10	qid-219	NumericalReasoning
+tables/table-220.csv	How many saints were martyred in the 19th century?	7	qid-220	NumericalReasoning
+tables/table-221.csv	How many jurisdictions had more than 70% of votes in favor of prohibition?	4	qid-221	NumericalReasoning
+tables/table-222.csv	How many regions in Italy have a population of more than 4 million?	7	qid-222	NumericalReasoning
+tables/table-223.csv	How many individuals have a 'Number' value greater than 1500?	14	qid-223	NumericalReasoning
+tables/table-224.csv	How many craters are there with a diameter (km) larger than 33?	15	qid-224	NumericalReasoning
+tables/table-225.csv	How many countries have at least one semifinalist?	12	qid-225	NumericalReasoning
+tables/table-226.csv	How many mountains in Tanzania have an elevation above 3000 meters and a prominence less than 3000?	2	qid-226	NumericalReasoning
+tables/table-227.csv	How many squadrons were built by 'brighton' in 1948?	16	qid-227	NumericalReasoning
+tables/table-228.csv	How many cost categories have a percentage increase greater than 5% from 2017 to 2018?	8	qid-228	NumericalReasoning
+tables/table-229.csv	How many seasons did Liverpool play in the Premier League?	7	qid-229	NumericalReasoning
+tables/table-230.csv	How many mountains are located in Austria?	12	qid-230	NumericalReasoning
+tables/table-231.csv	How many songs are in the French language?	4	qid-231	NumericalReasoning
+tables/table-232.csv	How many companies in the banking industry are listed in the table?	4	qid-232	NumericalReasoning
+tables/table-233.csv	How many mountains in Papua New Guinea have an elevation of 3000 meters or more?	10	qid-233	NumericalReasoning
+tables/table-234.csv	How many elections did the party win75 or more seats?	13	qid-234	NumericalReasoning
+tables/table-235.csv	How many years had a natural change of more than 150 and death of less than 350?	6	qid-235	NumericalReasoning
+tables/table-236.csv	How many types of violent crimes are reported in the table?	4	qid-236	NumericalReasoning
+tables/table-237.csv	How many hurricanes occurred in the month of September?	19	qid-237	NumericalReasoning
+tables/table-238.csv	How many teams have a win percentage of 0.7 or higher?	14	qid-238	NumericalReasoning
+tables/table-239.csv	How many dates in the table fall in the year 1990 or later?	8	qid-239	NumericalReasoning
+tables/table-240.csv	How many earthquakes have a magnitude of 6.5 or higher?	4	qid-240	NumericalReasoning
+tables/table-241.csv	How many coins were issued between 2000 and 2005?	6	qid-241	NumericalReasoning
+tables/table-242.csv	How many parties have won 10 or fewer seats in the election?	13	qid-242	NumericalReasoning
+tables/table-243.csv	How many cities have a residential monthly usage of 1000 kwh above 12?	7	qid-243	NumericalReasoning
+tables/table-244.csv	How many songs or hymns in the table have a source from the book of Psalms?	10	qid-244	NumericalReasoning
+tables/table-245.csv	How many cantons have 'yes' in the 'separate secondary schools' column?	18	qid-245	NumericalReasoning
+tables/table-246.csv	How many rows have a value in the 'pōlô' column that starts with the letter 'ə'?	3	qid-246	NumericalReasoning
+tables/table-247.csv	How many transcription factors have an occurrence count greater than 1?	3	qid-247	NumericalReasoning
+tables/table-248.csv	In the context of atomic energy levels, Ionization Energy (IE) represents the energy required to remove an electron from an atom. Based on the provided data, in which period did the Ionization Energy of an element first exceed 700000, if at all?	23rd	qid-248	NumericalReasoning
+tables/table-249.csv	"In the context of USAAF personnel statistics, the ""Overseas Rate"" is calculated as the total number of personnel overseas divided by the total USAAF personnel, multiplied by 100, indicating the percentage of personnel deployed overseas. On which date did the USAAF have the highest Overseas Rate?"	30 April 1945	qid-249	NumericalReasoning
+tables/table-250.csv	"In the context of election data, a ""majority win"" is defined as a candidate receiving more than 50% of the total deputies and senators in a round. Based on the provided data, in which round did Miloš Zeman achieve his first majority win, if at all?"	None	qid-250	NumericalReasoning
+tables/table-251.csv	HIV Awareness Rate is calculated as the percentage of people in a state who are aware of HIV.  Among the states with a males' rank higher than 10, which state has the highest HIV Awareness Rate for females?	manipur	qid-251	NumericalReasoning
+tables/table-252.csv	Average Seat Density is calculated as the total number of seats divided by the total number of aircraft. Based on this definition, which aircraft type has the highest average seat density in the airline's fleet?	777-300ER	qid-252	NumericalReasoning
+tables/table-253.csv	Airport Capacity Utilization Rate is defined as the percentage of the total airport capacity that is currently in use. Based on this definition, which airport has the highest Airport Capacity Utilization Rate?	belo horizonte	qid-253	NumericalReasoning
+tables/table-254.csv	In the context of architecture, the Floor-to-Height Ratio is calculated as the total number of floors divided by the height of the building, indicating the building's density. Among the buildings in Winnipeg, which one has the highest Floor-to-Height Ratio?	electric railway chambers	qid-254	NumericalReasoning
+tables/table-255.csv	Draft Position Improvement is defined as the difference between the overall pick number and the pick number in a specific round. What is the Draft Position Improvement for players drafted in the 7th round?	209	qid-255	NumericalReasoning
+tables/table-256.csv	Based on the definition of the Arab demographic proportion as the percentage of Arabs in the total population, which metropolitan ring exhibits the highest Arab demographic proportion?	northern section	qid-256	NumericalReasoning
+tables/table-257.csv	Goal Percentage is defined as the ratio of goals scored to the total number of appearances made by a player or a team in a specific season or overall career. What is the Goal Percentage of Liverpool in the 1995-1996 season?	18.87%	qid-257	NumericalReasoning
+tables/table-258.csv	In the context of seismology, the Magnitude of an earthquake is a measure of its size, with higher magnitudes indicating more powerful earthquakes. What is the average Magnitude of the top 5 earthquakes in the table, ranked by their Death toll?	7.52	qid-258	NumericalReasoning
+tables/table-259.csv	Ionization Energy Ratio is defined as the ratio of the ionization energy of an element at a specific level to its ionization energy at a lower level. Among the elements with available ionization energy data, which element has the highest Ionization Energy Ratio from the 21st to the 22nd level?	V	qid-259	NumericalReasoning
+tables/table-260.csv	"In the context of local government finance, ""Revenue Growth Rate"" is defined as the percentage change in total revenue from one year to the next. What was the revenue growth rate from 2001 to 2002, based on the provided data?"	14.18%	qid-260	NumericalReasoning
+tables/table-261.csv	Mach Number Threshold is defined as the maximum speed of an aircraft in terms of Mach number. Based on this definition, how many pilots in the table have exceeded a Mach Number Threshold of 5.5 during their flights?	8	qid-261	NumericalReasoning
+tables/table-262.csv	Barangay Density is calculated as the number of barangays divided by the area in square kilometers. Which city/municipality has the highest barangay density?	cardona	qid-262	NumericalReasoning
+tables/table-263.csv	In the context of tropical storms, the Hurricane Severity Index (HSI) is calculated as the sum of the number of hurricanes and major hurricanes, divided by the total number of tropical storms, indicating the severity of the storm season. What year had the highest Hurricane Severity Index?	1860, 1866	qid-263	NumericalReasoning
+tables/table-264.csv	In the context of schools competing in a tournament, the Title Winning Percentage is calculated as the number of Outright Titles won divided by the Total Finals reached, multiplied by 100, indicating a school's success rate in winning titles. Which school has the highest Title Winning Percentage?	Belfast Boys' Model School, Grosvenor High School	qid-264	NumericalReasoning
+tables/table-265.csv	In gymnastics, the Event Score Average is calculated as the average of the final score and qualifying score for a given event. What is the event with the highest Event Score Average in the 2008 Olympic Trials?	all around	qid-265	NumericalReasoning
+tables/table-266.csv	Prohibition Support Rate is defined as the percentage of people in a jurisdiction who are in favor of prohibition. Based on this definition, which jurisdiction has the highest Prohibition Support Rate?	prince edward island	qid-266	NumericalReasoning
+tables/table-267.csv	In the context of racing, Win Rate is calculated as the total number of wins divided by the total number of races, multiplied by 100, indicating a driver's ability to win races. In which series the dirver has the highest Win Rate?	formula junior 1600 spain	qid-267	NumericalReasoning
+tables/table-268.csv	Eurovision Song Contest Points Average is defined as the average number of points received by a country's entry in the contest. What is the Eurovision Song Contest Points Average for countries whose language is not English?	52.79	qid-268	NumericalReasoning
+tables/table-269.csv	"In the context of dance competitions, the ""Dance Efficiency"" metric is defined as the total points earned by a couple divided by the number of dances they performed. Based on this definition, which couple has the highest Dance Efficiency in this competition?"	brooke & derek	qid-269	NumericalReasoning
+tables/table-270.csv	Canal Lock Density is calculated as the total number of locks divided by the length of the canal in miles. Based on this definition, which canal has the highest lock density?	Crinan Canal	qid-270	NumericalReasoning
+tables/table-271.csv	Wind Energy Share is calculated as the wind powe divided by the total energy production. Based on this definition, which country has the highest Renewable Energy Share in 2011?	united states	qid-271	NumericalReasoning
+tables/table-272.csv	"In the context of racing, a ""podium finish"" is defined as a driver finishing in the top three positions (first, second, or third) in a race. Based on the provided data, which driver has achieved the most podium finishes in their career?"	daniël willemsen	qid-272	NumericalReasoning
+tables/table-273.csv	"In the context of the NFL draft, the ""pick efficiency"" of a college is calculated as the total number of players drafted from that college divided by the total number of players drafted in the round. Based on this definition, which college has the highest pick efficiency in the first 10 rounds of the draft?"	alabama	qid-273	NumericalReasoning
+tables/table-274.csv	Locomotive Service Life is defined as the duration between the 'entered service' and 'withdrawn' dates for a locomotive. Based on this definition, what was the longest Locomotive Service Life of the locomotive?	121	qid-274	NumericalReasoning
+tables/table-275.csv	"In the context of orphan demographics, ""AIDS-related orphans"" refers to the number of orphans who have lost one or both parents due to AIDS. Based on the provided data, which year has most of AIDS-related orphans among all orphans?"	2001	qid-275	NumericalReasoning
+tables/table-276.csv	GDP per capita is calculated as the nominal GDP divided by the population. Which country has the highest GDP per capita?	san marino	qid-276	NumericalReasoning
+tables/table-277.csv	Fleet Utilization Rate is defined as the number of current destinations served by an airline divided by its passenger fleet size. According to this definition of Fleet Utilization Rate, which airline has the highest fleet utilization rate?	adria airways	qid-277	NumericalReasoning
+tables/table-278.csv	Airport Traffic Growth Rate is defined as the percentage change in the number of passengers handled by an airport from one year to another. Based on this definition, which airport has the largest  Airport Traffic Growth Rate from 2008 to 2009?	george enescu international airport	qid-278	NumericalReasoning
+tables/table-279.csv	Goal-to-Game Ratio is defined as a player's total goals scored divided by the total number of games played. According to this definition of Goal-to-Game Ratio, which club has the highest goal-to-game ratio in their career?	Stoke City	qid-279	NumericalReasoning
+tables/table-280.csv	"In the context of NASCAR racing, ""Points Per Lap"" is defined as the total points earned by a driver divided by the total number of laps completed. Which driver has the highest Points Per Lap in this dataset?"	brian vickers	qid-280	NumericalReasoning
+tables/table-281.csv	Population Density is calculated as the total population of a place divided by its area in square kilometers. Based on this definition, which place in the table has the lowest population density?	remainder of the municipality	qid-281	NumericalReasoning
+tables/table-282.csv	Aircraft Fleet Capacity Change is defined as the variation in the total seating capacity of an airline's fleet over a specified period. Based on this definition, how did the total seating capacity of the airline's fleet change from 2004 to 2008?	244	qid-282	NumericalReasoning
+tables/table-283.csv	Population Density is calculated as the population of a township divided by its land area in square miles. Which township has the highest population density?	osborn	qid-283	NumericalReasoning
+tables/table-284.csv	Medal Ratio is calculated as the number of gold medals divided by the total number of medals. Based on this definition, which high school has the highest medal ratio?	baldwinsville hs, franklin central hs, woodbridge hs	qid-284	NumericalReasoning
+tables/table-285.csv	In the dairy industry, the Failure Rate is defined as the number of samples failed divided by the total number of samples taken. Based on this definition, which dairy producer has the lowest Failure Rate?	inner mongolia yili industrial group	qid-285	NumericalReasoning
+tables/table-286.csv	Duma Seat Share Change is defined as the variation in the percentage of seats held by each political party in the Russian Duma from one legislative period to another. Based on this definition, what is the Duma Seat Share Change of the Constitutional Democratic Party (Kadets) from the First Duma to the Second Duma?	-87	qid-286	NumericalReasoning
+tables/table-287.csv	"In the context of TV ratings, the ""audience share"" is defined as the percentage of viewers watching a particular channel out of the total number of viewers watching TV at a given time. Based on this definition, which episode of the show had the highest audience share?"	live final	qid-287	NumericalReasoning
+tables/table-288.csv	Rating Growth is defined as the change in rating divided by the current rating, expressed as a percentage. According to this definition of Rating Growth, which centre has the highest rating growth?	tallinn	qid-288	NumericalReasoning
+tables/table-289.csv	"In the context of cheerleading competitions, the ""Average Skill Score"" is calculated as the average of the scores in the basic elements, tumbling, stunts, and tosses/pyramids categories. Which team has the highest Average Skill Score?"	school of saint anthony ssa seagulls	qid-289	NumericalReasoning
+tables/table-290.csv	"In the context of hydrology, the ""confluence"" of two rivers refers to the point where they meet. Based on the provided data, what is the average length of the rivers that converge with the Lahn river at a confluence point below 100 km?"	20.73	qid-290	NumericalReasoning
+tables/table-291.csv	In the context of demographics, the population dependency ratio is defined as the ratio of the population aged 0-10 and 60+ to the population aged 11-59. Based on the provided data, what is the approximate population dependency ratio in 2002?	52.66%	qid-291	NumericalReasoning
+tables/table-292.csv	GDP per Square Kilometer is calculated as the total GDP of a country divided by its area in square kilometers. Based on this definition, which country has the highest GDP per Square Kilometer?	united kingdom	qid-292	NumericalReasoning
+tables/table-293.csv	Population Density is calculated as the population (pop) divided by the area (km square), indicating the number of people per square kilometer. Which subregion has the highest average population density?	são joão da madeira	qid-293	NumericalReasoning
+tables/table-294.csv	"In the context of music competitions, the “Tele Efficiency"" of an artist is defined as the ratio of total votes received to the televotes. Based on this definition, which artist had the highest Tele Efficiency in this competition?"	ángeles vela	qid-294	NumericalReasoning
+tables/table-295.csv	Urbanization Rate is defined as the percentage of the population living in urban areas. Based on this definition, in which year did the urbanization rate surpass 50% for the first time?	1979	qid-295	NumericalReasoning
+tables/table-296.csv	Medal Efficiency is calculated as the total number of gold medals won by a nation divided by its total number of medals won. Based on this definition, which nation has the highest medal efficiency?	soviet union	qid-296	NumericalReasoning
+tables/table-297.csv	In which year was the natural growth rate significantly different from the average natural growth rate between 1990 and 2000?	1990	qid-297	NumericalReasoning
+tables/table-298.csv	What is the average annual increase in points from 1994 to 1998 for the 'honda' team in the '125cc' class?	48.25	qid-298	NumericalReasoning
+tables/table-299.csv	What is the percentage increase in the total number of trailers from 1923 to 1927?	146.25%	qid-299	NumericalReasoning
+tables/table-300.csv	What is the total mintage of coins issued in 2004?	75932	qid-300	NumericalReasoning
+tables/table-301.csv	What is the average number of episodes per season for 'The Wire' between 2002 and 2004?	18.33	qid-301	NumericalReasoning
+tables/table-302.csv	What is the average increase in issue price per year from 2005 to 2010?	102	qid-302	NumericalReasoning
+tables/table-303.csv	What is the average total value per year from 2005 to 2009?	69.29	qid-303	NumericalReasoning
+tables/table-304.csv	What is the total s ton that has the highest increase from the previous year between 2000 and 2006?	3527469	qid-304	NumericalReasoning
+tables/table-305.csv	what is the difference of ghent's average final score from 2010 to 2011?	0.86	qid-305	NumericalReasoning
+tables/table-306.csv	How much did the average issue price increase the most compared to the previous year?	445	qid-306	NumericalReasoning
+tables/table-307.csv	What is the average annual change in the 'district-wide' budget from 2001-2002 to 2006-2007?	835.6	qid-307	NumericalReasoning
+tables/table-308.csv	In which year did the 'Political Rights' score first decrease by at least 2 point compared to the previous year?	1993	qid-308	NumericalReasoning
+tables/table-309.csv	In which year did the team experience the largest increase in the number of wins compared to the previous year?	2012	qid-309	NumericalReasoning
+tables/table-310.csv	What is the average number of Indians admitted per year from 2000 to 2010?	26625.45	qid-310	NumericalReasoning
+tables/table-311.csv	What is the average annual increase in 'property taxes' from 2000 to 2005?	2755233.40	qid-311	NumericalReasoning
+tables/table-312.csv	What is the average annual increase in issue price from 2007 to 2011?	5	qid-312	NumericalReasoning
+tables/table-313.csv	In which year did the organization 'Transparency International' publish the highest-ranked index?	2011	qid-313	NumericalReasoning
+tables/table-314.csv	In which year did the total number of examinees in Moscow experience the largest percentage increase compared to the previous year?	2003	qid-314	NumericalReasoning
+tables/table-315.csv	In which year did the number of Conservative councillors increase the most compared to the previous year?	1966	qid-315	NumericalReasoning
+tables/table-316.csv	What is the average number of locomotives withdrawn per year from 1935 to 1943?	1160.5	qid-316	NumericalReasoning
+tables/table-317.csv	What is the average number of floors in buildings constructed from 1895 to 1980?	26.57	qid-317	NumericalReasoning
+tables/table-318.csv	What is the average number of appearances (apps) per year by Castleford Tigers from 2005 to 2009?	25.6	qid-318	NumericalReasoning
+tables/table-319.csv	What is the average US Chart position of songs released by the artist from 1942 to 1946?	10.18	qid-319	NumericalReasoning
+tables/table-320.csv	What is the total mintage of coins issued in the first 4 years (2002-2006) of the provided data?	193918	qid-320	NumericalReasoning
+tables/table-321.csv	What is the total number of tropical storms in the year with the highest number of major hurricanes between 1870 and 1878?	29	qid-321	NumericalReasoning
+tables/table-322.csv	What is the average number of performances per year between 2004 and 2013?	864.6	qid-322	NumericalReasoning
+tables/table-323.csv	What is the value in the year with the highest increase in value between 1850 and 1870?	387203	qid-323	NumericalReasoning
+tables/table-324.csv	What is the total quantity of orders placed in the earliest two years represented in the table?	31	qid-324	NumericalReasoning
+tables/table-325.csv	What is the percentage increase in the issue price from 2000 to 2010?	42.86%	qid-325	NumericalReasoning
+tables/table-326.csv	In which year did the total energy production of the European Union exceed the total energy production of the United States?	2010	qid-326	NumericalReasoning
+tables/table-327.csv	What is the total number of injuries (in thousands of US dollars) in the three-year period with the highest average CPSC toy safety funding?	598	qid-327	NumericalReasoning
+tables/table-328.csv	In which year did the average speed of the vessels increase the most compared to the previous year?	1974	qid-328	NumericalReasoning
+tables/table-329.csv	What is the average change in the qualifying score for the 'all around' event from the 'olympic trials' to the 'us championships' in 2008?	0.65	qid-329	NumericalReasoning
+tables/table-330.csv	In which year did the number of typhus cases decrease the most compared to the previous year?	1929	qid-330	NumericalReasoning
+tables/table-331.csv	What is the average number of floors in buildings constructed between 1960 and 1980?	22	qid-331	NumericalReasoning
+tables/table-332.csv	In which year did the builder with 10BR class has most works?	1910	qid-332	NumericalReasoning
+tables/table-333.csv	In 2005, what rank did the highest-rated indicator achieve?	7	qid-333	NumericalReasoning
+tables/table-334.csv	What is the average number of tropical storms per year from 1850 to 1855?	4.83	qid-334	NumericalReasoning
+tables/table-335.csv	What is the average mintage (proof) of coins issued in the first 5 years of the 2000s?	55034.8	qid-335	NumericalReasoning
+tables/table-336.csv	What is the total increase in net assets over the 3-year period from 2005/2006 to 2007/2008?	4910084	qid-336	NumericalReasoning
+tables/table-337.csv	What is the average quantity of buses in 2000-2007 period?	22.8	qid-337	NumericalReasoning
+tables/table-338.csv	In which year did the value in `bötzow` increase the most compared to the previous year?	2005	qid-338	NumericalReasoning
+tables/table-339.csv	What is the percentage change in the 'civil liberties' score from 1972 to 1980?	-42.86%.	qid-339	NumericalReasoning
+tables/table-340.csv	In which year did the percentage of Catholics decrease the most compared to the previous year?	2005	qid-340	NumericalReasoning
+tables/table-341.csv	What is the percentage increase in the number of passed students from 2005 to 2010?	34.73%	qid-341	NumericalReasoning
+tables/table-342.csv	What is the average issue price of coins released between 2002 and 2005?	32.45	qid-342	NumericalReasoning
+tables/table-343.csv	In which year did the number of tropical storms increase the most compared to the previous year?	1865	qid-343	NumericalReasoning
+tables/table-344.csv	What is the total number of races won by Daniël Willemsen?	68	qid-344	NumericalReasoning
+tables/table-345.csv	How many total field goals were scored by all players who played 15 games or more?	169	qid-345	NumericalReasoning
+tables/table-346.csv	If the number of national votes in 1965 was increased by 10%, how many national votes would there be?	19341839	qid-346	NumericalReasoning
+tables/table-347.csv	What is the total number of children among all the marriages that took place in 1846?	20	qid-347	NumericalReasoning
+tables/table-348.csv	What is the total number of 12-inch guns on all ships?	24	qid-348	NumericalReasoning
+tables/table-349.csv	What is the total number of live births from 1950-1955 to 1975-1980?	78000	qid-349	NumericalReasoning
+tables/table-350.csv	What is the difference in population between the 6th ranked city and the city 'acqui terme'?	144	qid-350	NumericalReasoning
+tables/table-351.csv	What is the total number of wins in 2008 and 2009?	17	qid-351	NumericalReasoning
+tables/table-352.csv	What is the total number of points earned by the top 5 (by place) singers?	251	qid-352	NumericalReasoning
+tables/table-353.csv	What is the total number of votes cast in the counties where Obama received more than 60% of the votes?	443589	qid-353	NumericalReasoning
+tables/table-354.csv	What is the average profit (in US billion) of the top 5 companies in the table?	-3.24	qid-354	NumericalReasoning
+tables/table-355.csv	What is the average number of viewers (in millions) for the first 5 episodes of the series?	15.61	qid-355	NumericalReasoning
+tables/table-356.csv	If the viewership of a particular show increases by 10% from 9.2 million, what would be the new viewership in millions?	10.12	qid-356	NumericalReasoning
+tables/table-357.csv	What is the average US Chart position of the songs released in 1944?	8	qid-357	NumericalReasoning
+tables/table-358.csv	What is the average number of floors among the top 5 tallest buildings in the table?	23.4	qid-358	NumericalReasoning
+tables/table-359.csv	If the R class in service at the start of 1931 was 11, and 1 locomotive was withdrawn, what was the number of R class in service at the end of 1931?	10	qid-359	NumericalReasoning
+tables/table-360.csv	If the total passengers at glasgow international Airport increase by 15% in 2008, approximately how many passengers would the airport handle in 2008?	10115086	qid-360	NumericalReasoning
+tables/table-361.csv	What is the average score of Francisco Bravo Medical Magnet High School from 2007 to 2011?	818.4	qid-361	NumericalReasoning
+tables/table-362.csv	What is the total number of locomotives at Doncaster and Pyewipe combined for the 'j17' and 'e4' classes?	3	qid-362	NumericalReasoning
+tables/table-363.csv	What is the total number of Indians and Pakistanis admitted in the year 2005?	35716	qid-363	NumericalReasoning
+tables/table-364.csv	If the total student population of karolinska institutet and swedish university of agricultural sciences is increased by 18%, what would be the new combined student population?	10738	qid-364	NumericalReasoning
+tables/table-365.csv	What is the difference in DC values between the province of Verona and the province of Venice?	12.6	qid-365	NumericalReasoning
+tables/table-366.csv	What is the difference in performance between the High-efficiency air source heat pump (ASHP) at 35 °C and the Ground source heat pump (GSHP) at 35 °C?	2.8	qid-366	NumericalReasoning
+tables/table-367.csv	If  in kyrgyzstan the domestic use accounts for 39% of the total, how many billion cubic meters of freshwater is used domestically in kyrgyzstan?	7.69	qid-367	NumericalReasoning
+tables/table-368.csv	What is the total number of males in the 20-29 age group and the 30-39 age group?	18	qid-368	NumericalReasoning
+tables/table-369.csv	If the average daily flights on the monte carlo ( mcm ) - nice ( nce ) route increase by 28%, how many average daily flights would there be on this route?	149.76	qid-369	NumericalReasoning
+tables/table-370.csv	If the GDP per capita of flevoland decreases by 37%, what would be the new GDP per capita?	12246.57	qid-370	NumericalReasoning
+tables/table-371.csv	What is the difference in elevation (in meters) between the highest peak and the lowest peak in the table?	2851	qid-371	NumericalReasoning
+tables/table-372.csv	If the average number of regular season games played ('reg gp') by a player is 300, how many more games did Harold Snepsts play than the average?	481	qid-372	NumericalReasoning
+tables/table-373.csv	What is the total number of students at the universities located in London?	38375	qid-373	NumericalReasoning
+tables/table-374.csv	What is the total average viewership of the top 5 TV shows?	160	qid-374	NumericalReasoning
+tables/table-375.csv	How many episodes were there in total across Seasons 1, 2, and 3?	116	qid-375	NumericalReasoning
+tables/table-376.csv	What is the total population of the top 5 counties in 1948?	2844677	qid-376	NumericalReasoning
+tables/table-377.csv	What is the total sales of the top 3 companies in the 'banking' industry?	236.7	qid-377	NumericalReasoning
+tables/table-378.csv	If the total mintage of coins from 2002 to 2005 is divided equally among 5 people, how many coins would each person receive?	30796	qid-378	NumericalReasoning
+tables/table-379.csv	What is the average age of the executives listed in the table?	51.44	qid-379	NumericalReasoning
+tables/table-380.csv	What is the total research funding (in thousands) of all the universities in London?	33496	qid-380	NumericalReasoning
+tables/table-381.csv	What is the difference in Depth (km) between the earthquake with the highest Magnitude and the earthquake with the lowest Magnitude?	582.2	qid-381	NumericalReasoning
+tables/table-382.csv	If the federal excise tax in Canada (average) is increased by 20%, what would be the new total excise tax (CAD/L) in Canada (average)?	26.5	qid-382	NumericalReasoning
+tables/table-383.csv	If the total number of Jews in the top 3 metro areas is approximately 2,200,000, what is the average number of Jews in each of these metro areas?	733333	qid-383	NumericalReasoning
+tables/table-384.csv	What is the total number of locomotives built in the year 1909?	5	qid-384	NumericalReasoning
+tables/table-385.csv	"If a player wins with a ""natural royal flush"" and a ""four of a kind"" in two separate games, both with a 3-credit bet, how much would they win in total?"	915	qid-385	NumericalReasoning
+tables/table-386.csv	What is the total amount of energy produced from wind power and biomass and waste in China and the United States in 2011?	283.6	qid-386	NumericalReasoning
+tables/table-387.csv	What is the total sales of the top 5 albums in the table?	7562936	qid-387	NumericalReasoning
+tables/table-388.csv	What is the total 2010 population (in thousands) of the top 5 districts with the highest GDP per capita?	4351	qid-388	NumericalReasoning
+tables/table-389.csv	What is the difference in enrollment between the institution with the highest enrollment and the institution with the lowest enrollment?	5702	qid-389	NumericalReasoning
+tables/table-390.csv	If the average height of the top 5 buildings is increased by 5 meters, what would be the new average height?	92.2	qid-390	NumericalReasoning
+tables/table-391.csv	What is the total diameter of all craters with a diameter greater than 40 km?	601.3	qid-391	NumericalReasoning
+tables/table-392.csv	What is the average rating of the episodes that aired on Tuesdays?	1.73	qid-392	NumericalReasoning
+tables/table-393.csv	What is the average size in cents of the intervals with a just ratio that involves the number 11?	380.49	qid-393	NumericalReasoning
+tables/table-394.csv	Which metro area has the highest 'number of jews (wjc)' and what's the difference when it compares to the metro area with the lowest?	new york city, 1542000	qid-394	NumericalReasoning
+tables/table-395.csv	Which year had the highest crude birth rate (per 1000) in the given time period?	1980	qid-395	NumericalReasoning
+tables/table-396.csv	Which manager had the highest winning percentage (wins/games) in their tenure?	stump merrill	qid-396	NumericalReasoning
+tables/table-397.csv	Which canton has the highest number of years of kindergarten legally required?	zurich, basel - stadt, st gallen, thurgau	qid-397	NumericalReasoning
+tables/table-398.csv	Which episode had the lowest rating?	the reunion	qid-398	NumericalReasoning
+tables/table-399.csv	Which age group has the highest percentage of the population, and what's the difference when it compares to the age group with the lowest percentage?	22 - 35, 14.21	qid-399	NumericalReasoning
+tables/table-400.csv	Which country has the highest average relative annual growth (%) in population?	oman	qid-400	NumericalReasoning
+tables/table-401.csv	Which animal has the highest metabolic rate among all the females?	6	qid-401	NumericalReasoning
+tables/table-402.csv	Which season did the driver achieve the highest number of wins?	2004	qid-402	NumericalReasoning
+tables/table-403.csv	Which region has the highest rainfall by volume (km³/year)?	huetar atlántico	qid-403	NumericalReasoning
+tables/table-404.csv	Which municipality has the highest number of people speaking foreign, and how is the difference compared to the municipality with the lowest number of people speaking foreign?	guanay municipality, 85	qid-404	NumericalReasoning
+tables/table-405.csv	Which 3 member states have the highest inhabitants per MEP?	spain, france, united kingdom	qid-405	NumericalReasoning
+tables/table-406.csv	In which election year did the party achieve the highest percentage of popular vote?	1958	qid-406	NumericalReasoning
+tables/table-407.csv	In which season did the TV show have the highest rank?	2	qid-407	NumericalReasoning
+tables/table-408.csv	In which year did the team achieve the highest success rate?	2011	qid-408	NumericalReasoning
+tables/table-409.csv	Which year had the highest number of injuries (in thousands of US dollars) according to the provided data?	2001	qid-409	NumericalReasoning
+tables/table-410.csv	Which solution has the highest concentration in mmol/L, considering the values in the '(mmol / l)' column?	normal saline, d5ns	qid-410	NumericalReasoning
+tables/table-411.csv	Which locomotive was built in the earliest year, and how is the difference of its build year compared to the locomotive built in the latest year?	62xx, 81	qid-411	NumericalReasoning
+tables/table-412.csv	Which election year had the highest percentage of party list votes?	1969	qid-412	NumericalReasoning
+tables/table-413.csv	Which staple food has the highest amount of Copper (mg) per 100g portion?	Wheat	qid-413	NumericalReasoning
+tables/table-414.csv	Which crater has the largest diameter?	cleopatra	qid-414	NumericalReasoning
+tables/table-415.csv	Which chambering has the highest maximum pressure (p max) in bars?	.454 casull	qid-415	NumericalReasoning
+tables/table-416.csv	Which country had the highest percentage of orphans as a percentage of all children in 2001?	malawi (2001)	qid-416	NumericalReasoning
+tables/table-417.csv	Which party has the highest total number of seats across all panels?	independent	qid-417	NumericalReasoning
+tables/table-418.csv	Which country has the highest 'Total terrestrial vertebrates', and how is the difference compared to the country with the lowest?	Panama, 862	qid-418	NumericalReasoning
+tables/table-419.csv	Which high school showed the greatest increase in numerical value from 2007 to 2011?	James A. Garfield High School	qid-419	NumericalReasoning
+tables/table-420.csv	Which institution has the highest enrollment?	southern oregon university	qid-420	NumericalReasoning
+tables/table-421.csv	Which player has the highest total goals among all players in the table?	luke beckett	qid-421	NumericalReasoning
+tables/table-422.csv	Which election had the highest 'share of votes', and how is the difference compared to the election with the lowest?	1938, 34.50%	qid-422	NumericalReasoning
+tables/table-423.csv	Which painter has the highest Composition score among all the painters in the table?	Guercino, Rubens	qid-423	NumericalReasoning
+tables/table-424.csv	Which episode has the highest number of viewers?	live and let doyle	qid-424	NumericalReasoning
+tables/table-425.csv	Which economy had the highest GDP per capita as of 2012 (PPP)?	singapore	qid-425	NumericalReasoning
+tables/table-426.csv	Which university has the highest research funding, and how is the difference compared to the university with the lowest research funding(000)?	loughborough university,15160	qid-426	NumericalReasoning
+tables/table-427.csv	Can you rank the top 3 mountains in New Zealand by their elevation in meters from highest to lowest?	aoraki / mount cook, mount aspiring / tititea, mount tapuaenuku	qid-427	NumericalReasoning
+tables/table-428.csv	Can you rank the top 3 countries that have shown the most improvement in their values from 2009 to 2011?	china, argentina, chile	qid-428	NumericalReasoning
+tables/table-429.csv	Who has served the longest in this position?	Thomas Riley	qid-429	NumericalReasoning
+tables/table-430.csv	Which state has the highest HIV awareness percentage among females?	manipur	qid-430	NumericalReasoning
+tables/table-431.csv	Which make and model of buses has the highest quantity?	orion bus industries v	qid-431	NumericalReasoning
+tables/table-432.csv	Can you rank the models from highest to lowest power output (hp)?	8F, 8B, 8Ab, 8Aa, 8A	qid-432	NumericalReasoning
+tables/table-433.csv	Which place had the highest number of Prisoners of War (PoW)?	Bardia	qid-433	NumericalReasoning
+tables/table-434.csv	Which beam type has the highest moment of inertia in torsion (j) among all the options?	ismb 750 173	qid-434	NumericalReasoning
+tables/table-435.csv	In which series did the show achieve the highest average viewership (in millions)?	three	qid-435	NumericalReasoning
+tables/table-436.csv	Which episode had the lowest number of US viewers (in millions)?	long live the queen	qid-436	NumericalReasoning
+tables/table-437.csv	Which time has the lowest local magnitude?	27 november 1954	qid-437	NumericalReasoning
+tables/table-438.csv	Which mountain has the highest elevation (m) among those in greece?	mount ida	qid-438	NumericalReasoning
+tables/table-439.csv	Which place has the largest 'area (km 2 )', and how is the difference compared to the place with the smallest 'area (km 2 )'?	remainder of the municipality, 2197.39	qid-439	NumericalReasoning
+tables/table-440.csv	Which demographic category has the highest percentage value of male in the given table?	Total Workers	qid-440	NumericalReasoning
+tables/table-441.csv	Which borough or census area has the highest number of lakes and reservoirs combined, based on the 's lake and gnis query link' and 's reservoir and gnis query link' columns?	yukon - koyukuk (ca)	qid-441	NumericalReasoning
+tables/table-442.csv	Which city has the lowest GDP per capita in thousands of ID?	istanbul	qid-442	NumericalReasoning
+tables/table-443.csv	Which city has the highest 'density (inhabitants / km 2 )', and how is the difference compared to the city with the lowest?	acqui terme, 490.7	qid-443	NumericalReasoning
+tables/table-444.csv	Which municipality has the highest population of Spanish speakers?	puerto villarroel municipality	qid-444	NumericalReasoning
+tables/table-445.csv	Which model has the highest CPU clock speed?	e2 - 2000	qid-445	NumericalReasoning
+tables/table-446.csv	Which high school has a higher total number of medals, Ayala High School or Franklin Central HS?	ayala high school	qid-446	NumericalReasoning
+tables/table-447.csv	What is the difference between the upper index kcal/nm³ of propane and the lower index kcal/nm³ of propane?	1559	qid-447	NumericalReasoning
+tables/table-448.csv	What is the difference in length (in km) between the longest road and the shortest road in the 'sirmour' district?	114	qid-448	NumericalReasoning
+tables/table-449.csv	How many more seats does Fianna Fáil hold in the agricultural panel compared to Fine Gael?	1	qid-449	NumericalReasoning
+tables/table-450.csv	How many more reported offenses of 'larceny - theft' were there compared to 'burglary'?	1166	qid-450	NumericalReasoning
+tables/table-451.csv	Which bishop had the longest tenure in office, and how is the difference compared to the average tenure of all the bishops?	Ásmundur Guðmundsson, 16.85	qid-451	NumericalReasoning
+tables/table-452.csv	Which nation has a higher total medal count, Australia or Russia?	Australia	qid-452	NumericalReasoning
+tables/table-453.csv	Which province has the highest population density, and how is the difference compared to the average population density of all provinces?	distrito nacional, 10013.87	qid-453	NumericalReasoning
+tables/table-454.csv	What is the difference in boiling points (in ˚C) between the component with the highest 'bp comp 1 (˚c)' value and the component with the lowest 'bp comp 1 (˚c)' value?	308.6	qid-454	NumericalReasoning
+tables/table-455.csv	How much greater is the average annual rainfall in the 'v - valparaíso' region compared to the 'ii - antofagasta' region?	389.5	qid-455	NumericalReasoning
+tables/table-456.csv	What is the difference in elevation (in meters) between the mountain with the highest elevation and the mountain with the lowest elevation?	2728	qid-456	NumericalReasoning
+tables/table-457.csv	How many more students are enrolled in the school with the highest enrollment compared to the school with the lowest enrollment?	1279	qid-457	NumericalReasoning
+tables/table-458.csv	In which year did the leader's party win the highest percentage of national votes, and how much higher was it compared to the percentage of national votes won in the previous year?	1965, 0.80%	qid-458	NumericalReasoning
+tables/table-459.csv	How much greater is the average relative annual growth rate of Egypt compared to Morocco?	1.21	qid-459	NumericalReasoning
+tables/table-460.csv	How much higher is the average score of the top-ranked couple compared to the average score of the bottom-ranked couple?	9.8	qid-460	NumericalReasoning
+tables/table-461.csv	In which year did the song with the highest US chart position and the song with the lowest US chart position release?	1952, 1953	qid-461	NumericalReasoning
+tables/table-462.csv	Which two universities have the smallest difference in enrollment, and what is the difference?	nashville , tennessee, jackson , tennessee, 19	qid-462	NumericalReasoning
+tables/table-463.csv	Which two stations have the smallest difference in passenger numbers between '2005 - 03' and '2008 - 09'?	bere ferrers	qid-463	NumericalReasoning
+tables/table-464.csv	How much greater is the value of 'dp / da' in the 2004 election compared to the 1999 election?	7	qid-464	NumericalReasoning
+tables/table-465.csv	Which model has a greater difference between its 'Displacement (l)' and 'Weight (kg)', Model 8Ab or Model 8B?	8Ab	qid-465	NumericalReasoning
+tables/table-466.csv	Which country has the highest GDP per capita, and what is the difference when it compare to the GDP per capita of the EC6 (1958) region?	luxembourg, 106890	qid-466	NumericalReasoning
+tables/table-467.csv	Which party has the highest percentage of votes, and how is the difference compared to the percentage of votes of the Forward Bloc (Ruikar) of India?	Indian National Congress, 37.37%	qid-467	NumericalReasoning
+tables/table-468.csv	How much greater is the total number of executions (in persona and in effigie) in Córdoba compared to Valencia?	34	qid-468	NumericalReasoning
+tables/table-469.csv	Which place has the highest number of people killed?	dantewada , chattisgarh	qid-469	NumericalReasoning
+tables/table-470.csv	In which year did the number of typhus cases have the least difference compared to the number of smallpox cases?	1929	qid-470	NumericalReasoning
+tables/table-471.csv	Which year has the highest average issue price, and how is the difference compared to the average issue price of the lowest years?	2010, 663	qid-471	NumericalReasoning
+tables/table-472.csv	How many more years was the 'Empress of Austria' in service compared to the 'Cyclops'?	3	qid-472	NumericalReasoning
+tables/table-473.csv	How many more total medals did the school with the highest total medals win than the school with the lowest total medals?	6	qid-473	NumericalReasoning
+tables/table-474.csv	How much shorter was the average tenure of ambassadors who served between 1956 and 1969 compared to those who served between 1981 and 2001?	0.71	qid-474	NumericalReasoning
+tables/table-475.csv	Which governor served for a longer period, Calvin L. Rampton or Mike Leavitt?	Calvin L. Rampton	qid-475	NumericalReasoning
+tables/table-476.csv	In which year did the entity experience the largest difference between 'property taxes' and 'investment earnings'?	2005	qid-476	NumericalReasoning
+tables/table-477.csv	What is the difference between the highest and lowest metabolic rates among the female animals?	1228.4.	qid-477	NumericalReasoning
+tables/table-478.csv	In which year did the crude birth rate (per 1000) exceed the crude death rate (per 1000) by the largest margin?	1985	qid-478	NumericalReasoning
+tables/table-479.csv	How much higher is the elevation of the mountain with the highest elevation than the mountain with the lowest elevation?	1207	qid-479	NumericalReasoning
+tables/table-480.csv	Which pair of components (2nd and 3rd ) has the smallest difference in boiling points, and what is the difference in boiling points between them?	acetone, methyl acetate, 0.5	qid-480	NumericalReasoning
+tables/table-481.csv	"How much larger is the area of the ""remainder of the municipality"" compared to the area of ""ladysmith""?"	2258.75	qid-481	NumericalReasoning
+tables/table-482.csv	How many more males are there in the 10-29 age group than in the 60+ age group?	16	qid-482	NumericalReasoning
+tables/table-483.csv	How many more points did the artist with the highest points score compared to the artist with the second-highest points score?	39	qid-483	NumericalReasoning
+tables/table-484.csv	How much greater is the population density in 2012 of the sector with the highest population density compared to the sector with the lowest population density?	487	qid-484	NumericalReasoning
+tables/table-485.csv	How much higher is the average high temperature in July compared to January across all cities?	51.93	qid-485	NumericalReasoning
+tables/table-486.csv	How many more points did the singer with the highest 'points' score receive than the singer with the 5th highest 'points' score?	31	qid-486	NumericalReasoning
+tables/table-487.csv	Which autonomous community has the highest percentage of solid waste power in its total electricity demand?	asturias	qid-487	NumericalReasoning
+tables/table-488.csv	Which gender has a higher number of literates, Male or Female?	Male	qid-488	NumericalReasoning
+tables/table-489.csv	Which country had the highest German imports in 1939, and how does it compare to its German imports in 1934?	Poland and Danzig, 62.7	qid-489	NumericalReasoning
+tables/table-490.csv	In which season did Liverpool score the highest total number of goals in the Premier League?	1994–95	qid-490	NumericalReasoning
+tables/table-491.csv	Which country has the highest percentage of AIDS-related orphans as a percentage of total orphans in 2001, and how does it compare to the percentage of AIDS-related orphans in uganda in the same year?	botswana, 19.4	qid-491	NumericalReasoning
+tables/table-492.csv	In which year did the US experience a higher percentage increase in domestic steel tonnage compared to foreign total steel tonnage?	2002, 2003	qid-492	NumericalReasoning
+tables/table-493.csv	Which color combination has a higher 'Pin (Tip)' value, White/Blue or Red/Blue?	Red/Blue	qid-493	NumericalReasoning
