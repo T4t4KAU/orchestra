@@ -124,3 +124,8 @@ self.speak(response.stream or response.text)
 
 ## Credits
 We adopt the [AgentScope](https://github.com/modelscope/agentscope) project to implement our multi-agent TQA framework and use the [ReAcTable](https://github.com/yunjiazhang/ReAcTable) framework to instantiate the ReAct paradigm for LLM agents.
+
+## Publication
+Accurate Table Question Answering with Accessible LLMs  
+Yangfan Jiang, Fei Wei, Ergute Bao, Yaliang Li, Bolin Ding, Yin Yang, and Xiaokui Xiao  
+In IEEE International Conference on Data Engineering (ICDE), 2026.
